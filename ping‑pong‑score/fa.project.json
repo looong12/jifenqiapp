@@ -1,9 +1,0 @@
-{
-    "projectName":"乒乓球记分器",
-    "projectType":"web",
-    "entry":"index.html",
-    "version":"1.0.0",
-    "orientation":"portrait",
-    "fullScreen":true,
-    "hardwareAccelerate":true
-}
